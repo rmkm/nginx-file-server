@@ -11,4 +11,4 @@ docker run \
     --name $CONTAINER_NAME \
     --mount type=bind,source=$SRC,target=/usr/share/nginx/html/media,readonly \
     -p $PORT:80 \
-    -d rmkm/nginx-file-server
+    -d $IMAGE_NAME
