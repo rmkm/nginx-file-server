@@ -1,5 +1,6 @@
 # nginx-file-server
-Simple nginx https-based file server. Note that this is currently for testing.
+Simple nginx https-based file server. Note that this is currently for testing.  
+https://hub.docker.com/repository/docker/rmkm/nginx-file-server
 
 # Install
 1. ```git clone https://github.com/rmkm/nginx-file-server.git```
