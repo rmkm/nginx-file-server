@@ -1,8 +1,8 @@
 # nginx-file-server
-Simple nginx http-based file server. Note that this is currently for testing.
+Simple nginx https-based file server. Note that this is currently for testing.
 
 # Install
-1. git clone https://github.com/rmkm/nginx-file-server.git
+1. ```git clone https://github.com/rmkm/nginx-file-server.git```
 1. Modify run.sh to adjust
     - Image name
     - Container name
